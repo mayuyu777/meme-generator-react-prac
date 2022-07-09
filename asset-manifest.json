@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21fb9ad3.css",
+    "main.js": "/static/js/main.d2be809e.js",
+    "static/js/787.71fd0cc7.chunk.js": "/static/js/787.71fd0cc7.chunk.js",
+    "static/media/troll-face-logo.png": "/static/media/troll-face-logo.f781e84c114ad06b1e84.png",
+    "index.html": "/index.html",
+    "main.21fb9ad3.css.map": "/static/css/main.21fb9ad3.css.map",
+    "main.d2be809e.js.map": "/static/js/main.d2be809e.js.map",
+    "787.71fd0cc7.chunk.js.map": "/static/js/787.71fd0cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fb9ad3.css",
+    "static/js/main.d2be809e.js"
+  ]
+}
