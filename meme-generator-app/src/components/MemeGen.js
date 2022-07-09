@@ -21,9 +21,9 @@ export default function MemeGen() {
         randomImage: "",
         topTextFontSize: 2.5,
         bottomTextFontSize: 2.5,
-        topTopBottom: 0,
+        topTopBottom: 1,
         topLeftRight: 30,
-        bottomTopBottom: 0,
+        bottomTopBottom: 2,
         bottomLeftRight: 30,
         topButton: false,
         bottomButton: false
@@ -115,7 +115,7 @@ export default function MemeGen() {
                                         className='range-input range-top' 
                                         type='range'  
                                         name="topTopBottom" 
-                                        min="0" max="80"
+                                        min="1" max="80"
                                         value={meme.topTopBottom}
                                         onChange={handleChange}/>
                                     <input 
@@ -148,7 +148,7 @@ export default function MemeGen() {
                                         className='range-input' 
                                         type='range'  
                                         name="bottomTopBottom" 
-                                        min="0" max="80"
+                                        min="2" max="80"
                                         value={meme.bottomTopBottom}
                                         onChange={handleChange}/>
                                     <input 
