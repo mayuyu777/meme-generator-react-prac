@@ -1,18 +1,8 @@
 import React, { useState, useEffect } from 'react';
-// import { Memes } from '../memesData';
 
 export default function MemeGen() {
 
-    //  const {data:{memes}} = Memes;
-    // const [memeImage, setMemeObject] = useState("");
-
-    // function generateNewMemeImg() {
-    //     const randNumber = Math.floor(Math.random() * memes.length);
-    //     setMemeObject((oldMeme) => {
-    //         console.log(oldMeme);
-    //         return (memes[randNumber].url)
-    //     });
-    // }
+   
 
 
     const [meme, setMeme] = useState({
