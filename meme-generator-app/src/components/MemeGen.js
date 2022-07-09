@@ -22,9 +22,9 @@ export default function MemeGen() {
         topTextFontSize: 2.5,
         bottomTextFontSize: 2.5,
         topTopBottom: 0,
-        topLeftRight: 0,
+        topLeftRight: 30,
         bottomTopBottom: 0,
-        bottomLeftRight: 0,
+        bottomLeftRight: 30,
         topButton: false,
         bottomButton: false
  
