@@ -111,7 +111,7 @@ export default function MemeGen() {
                                         className='range-input' 
                                         type='range'  
                                         name="topLeftRight" 
-                                        min="0" max="50"
+                                        min="0" max="70"
                                         value={meme.topLeftRight}
                                         onChange={handleChange}/>
                                     <input 
@@ -144,7 +144,7 @@ export default function MemeGen() {
                                         className='range-input' 
                                         type='range'  
                                         name="bottomLeftRight" 
-                                        min="0" max="50"
+                                        min="0" max="70"
                                         value={meme.bottomLeftRight}
                                         onChange={handleChange}/>
                                     <input 
